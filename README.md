@@ -297,3 +297,7 @@ Issues and PRs are welcome. Before opening a PR: `npm run lint`,
 for the on-chain rules this API defers to, and
 [`StellarExpress/frontend`](https://github.com/StellarExpress/frontend)
 for the client that consumes this API.
+
+## Fix for Issue #201: Environment variables not documented
+
+Add a .env.example file and environment variable reference documenting every config value, its purpose, whether required, and an example value.
